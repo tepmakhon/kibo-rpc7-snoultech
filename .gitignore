@@ -1,0 +1,20 @@
+*.pcd
+build/
+devel/
+share/
+reports/
+__pycache__/
+.pytest_cache/
+src_local_backup/
+ff_msgs
+# Generated files and simulation results
+share/
+/build/
+/devel/
+/install/
+/pycache/
+*.pyc
+*.log
+*.bag
+*.tar.gz
+.env
